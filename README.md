@@ -26,6 +26,7 @@ Performance Tracking – Helps businesses optimize sales & marketing strategies
 1. Download the Power BI (.pbix) file from this repository
 2. Open it in Power BI Desktop
 3. Interact with the visuals and gain insights
+4. https://github.com/anushanarva/PowerBI-Sales-Dashboard/blob/main/Dashboard.png
 
 **Conclusion**
 This Sales Analysis Dashboard is a comprehensive tool for monitoring sales, tracking profitability, and analyzing marketing effectiveness. It empowers businesses with data-driven decision-making for improved revenue growth and efficiency.
